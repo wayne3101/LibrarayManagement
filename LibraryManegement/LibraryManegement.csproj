@@ -215,8 +215,11 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\alfons-morales-YLSwjSy7stw-unsplash.jpg" />
     <Content Include="assets\Duckduck.jpg" />
     <Content Include="assets\golang.png" />
+    <Content Include="assets\HAUlogo.jpg" />
+    <Content Include="assets\helao.jpg" />
     <Content Include="assets\nghiangu.jpg" />
     <Content Include="assets\wp4430524-books-4k-wallpapers.jpg" />
     <Content Include="Content\bg.css" />
