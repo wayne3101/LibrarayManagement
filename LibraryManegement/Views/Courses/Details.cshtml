@@ -1,0 +1,31 @@
+﻿@model LibraryManegement.Models.Course
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container">
+    <h2>Chi tiết</h2>
+
+
+    <div>
+        <h4>Course</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Name)*@
+                @Html.DisplayName("Tên khóa học")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Name)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>

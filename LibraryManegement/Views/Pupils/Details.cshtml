@@ -1,0 +1,85 @@
+﻿@model LibraryManegement.Models.Pupils
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container">
+    <h2>Chi tiết</h2>
+
+
+    <div>
+        <h4>Độc giả</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Pupils_first_name)*@
+                @Html.DisplayName("Họ")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Pupils_first_name)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Pupils_middle_name)*@
+                @Html.DisplayName("Tên đệm")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Pupils_middle_name)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Pupils_last_name)*@
+                @Html.DisplayName("Tên")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Pupils_last_name)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Gender)*@
+                @Html.DisplayName("Giới tính")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Gender)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Address)*@
+                @Html.DisplayName("Địa chỉ")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Address)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Phone_number)*@
+                @Html.DisplayName("Số điện thoại")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Phone_number)
+            </dd>
+
+            <dt>
+                @*  @Html.DisplayNameFor(model => model.Email)*@
+                @Html.DisplayName("Email")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Email)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>

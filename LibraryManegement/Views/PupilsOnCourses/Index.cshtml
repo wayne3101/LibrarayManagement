@@ -1,0 +1,58 @@
+﻿@model IEnumerable<LibraryManegement.Models.PupilsOnCourse>
+
+<div class="container">
+
+    <div>
+        <h2 class="float-left">Độc giar theo khóa học</h2>
+        <a class="btn btn-outline-primary float-right" href="@Url.Action("Create", "PupilsOnCourses")" role="button">Thêm</a>
+    </div>
+
+    <table class=" table table-hover">
+
+        <thead>
+            <tr>
+                <th>
+                    @* @Html.DisplayNameFor(model => model.Course.Name)*@
+                    @Html.DisplayName("Khóa học")
+                </th>
+                <th>
+                    Độc giả
+                </th>
+                <th>
+                    @* @Html.DisplayNameFor(model => model.Date_from)*@
+                    @Html.DisplayName("Ngày bắt đầu")
+                </th>
+                <th>
+                    @* @Html.DisplayNameFor(model => model.Date_to)*@
+                    @Html.DisplayName("Ngày kết thúc")
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Course.Name)
+                    </td>
+                    <td>
+                        @item.Pupils.Pupils_first_name @item.Pupils.Pupils_middle_name @item.Pupils.Pupils_last_name
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date_from)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Date_to)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Sửa", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Chi tiết", "Details", new { id = item.Id }) |
+                        @Html.ActionLink("Xóa", "Delete", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+
+    </table>
+</div>

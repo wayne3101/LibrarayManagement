@@ -1,0 +1,66 @@
+﻿@model LibraryManegement.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container">
+    <h2>Chi tiết</h2>
+
+    <div>
+        <h4>Sách</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Genres.Name)*@
+                @Html.DisplayName("Thể loại")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Genres.Name)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Number_of_copies)*@
+                @Html.DisplayName("Số lượng")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Number_of_copies)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Book_title)*@
+                @Html.DisplayName("Tên sách")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Book_title)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Book_price)*@
+                @Html.DisplayName("Giá")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Book_price)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Book_of_publictaion)*@
+                @Html.DisplayName("Ngày xuất bản")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Book_of_publictaion)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.IsBn }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>

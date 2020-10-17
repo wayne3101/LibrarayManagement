@@ -1,0 +1,23 @@
+﻿@model LibraryManegement.Models.Author
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<div class="container">
+    <div>
+        <h3>Bạn có chắc muốn xóa?</h3>
+    </div>
+    <div>
+
+        @using (Html.BeginForm())
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Xóa" class="btn btn-primary" /> |
+                @Html.ActionLink("Trở lại", "Index")
+            </div>
+        }
+    </div>
+</div>

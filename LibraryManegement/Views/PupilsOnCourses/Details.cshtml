@@ -1,0 +1,57 @@
+﻿@model LibraryManegement.Models.PupilsOnCourse
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container">
+    <h2>Chi tiết</h2>
+
+
+    <div>
+        <h4>Độc giả theo khóa học</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Course.Name)*@
+                @Html.DisplayName("Tên khóa học")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Course.Name)
+            </dd>
+
+            <dt>
+               Độc giả
+            </dt>
+
+            <dd>
+                @Model.Pupils.Pupils_first_name @Model.Pupils.Pupils_middle_name @Model.Pupils.Pupils_last_name
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Date_from)*@
+                @Html.DisplayName("Ngày bắt đầu")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date_from)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Date_to)*@
+                @Html.DisplayName("Ngày kết thúc")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date_to)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { /* id = Model.PrimaryKey */ }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>

@@ -1,0 +1,338 @@
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\LibraryManegement.dll.config
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\LibraryManegement.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\LibraryManegement.pdb
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csc.exe
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csc.exe.config
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csc.rsp
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csi.exe
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csi.exe.config
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\csi.rsp
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.AppContext.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Console.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.IO.Compression.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Net.Http.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Net.Sockets.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.ValueTuple.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Xml.XPath.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\vbc.exe
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\vbc.exe.config
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\vbc.rsp
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\VBCSCompiler.exe
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Antlr3.Runtime.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\EntityFramework.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\EntityFramework.SqlServer.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Newtonsoft.Json.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Owin.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Helpers.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Mvc.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Optimization.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Razor.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.Deployment.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.Razor.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\WebGrease.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Helpers.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Mvc.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Optimization.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.Razor.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.Deployment.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\System.Web.WebPages.Razor.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Newtonsoft.Json.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Antlr3.Runtime.pdb
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\EntityFramework.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\EntityFramework.SqlServer.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CoreCompileInputs.cache
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CopyComplete
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.dll
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.pdb
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.InitialCreate.resources
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.csproj.GenerateResource.cache
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v1.resources
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.csprojAssemblyReference.cache
+C:\Users\genso\OneDrive\Máy tính\LibraryManegement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v2.resources
+D:\data\LibararyManagement\LibraryManegement\bin\LibraryManegement.dll.config
+D:\data\LibararyManagement\LibraryManegement\bin\LibraryManegement.dll
+D:\data\LibararyManagement\LibraryManegement\bin\LibraryManegement.pdb
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csc.exe
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csc.exe.config
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csc.rsp
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csi.exe
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csi.exe.config
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\csi.rsp
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.AppContext.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Collections.Immutable.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Console.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Globalization.Calendars.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.Compression.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.FileSystem.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Net.Http.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Net.Sockets.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Reflection.Metadata.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.ValueTuple.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XPath.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\vbc.exe
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\vbc.exe.config
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\vbc.rsp
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\VBCSCompiler.exe
+D:\data\LibararyManagement\LibraryManegement\bin\roslyn\VBCSCompiler.exe.config
+D:\data\LibararyManagement\LibraryManegement\bin\Antlr3.Runtime.dll
+D:\data\LibararyManagement\LibraryManegement\bin\EntityFramework.dll
+D:\data\LibararyManagement\LibraryManegement\bin\EntityFramework.SqlServer.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Google.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Web.Infrastructure.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Newtonsoft.Json.dll
+D:\data\LibararyManagement\LibraryManegement\bin\Owin.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Helpers.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Mvc.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Optimization.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Razor.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Deployment.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Razor.dll
+D:\data\LibararyManagement\LibraryManegement\bin\WebGrease.dll
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Helpers.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Mvc.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Optimization.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.Razor.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Deployment.xml
+D:\data\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Razor.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Newtonsoft.Json.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Antlr3.Runtime.pdb
+D:\data\LibararyManagement\LibraryManegement\bin\EntityFramework.xml
+D:\data\LibararyManagement\LibraryManegement\bin\EntityFramework.SqlServer.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Google.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\data\LibararyManagement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csprojAssemblyReference.cache
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.InitialCreate.resources
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v1.resources
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v2.resources
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.GenerateResource.cache
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CoreCompileInputs.cache
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CopyComplete
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.dll
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.pdb
+D:\data\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v21.resources
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\LibraryManegement.dll.config
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\LibraryManegement.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\LibraryManegement.pdb
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csc.exe
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csc.exe.config
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csc.rsp
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csi.exe
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csi.exe.config
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\csi.rsp
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.AppContext.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Collections.Immutable.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Console.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Globalization.Calendars.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.Compression.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.FileSystem.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Net.Http.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Net.Sockets.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Reflection.Metadata.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.ValueTuple.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XPath.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\vbc.exe
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\vbc.exe.config
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\vbc.rsp
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\VBCSCompiler.exe
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\roslyn\VBCSCompiler.exe.config
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Antlr3.Runtime.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\EntityFramework.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\EntityFramework.SqlServer.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Google.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Web.Infrastructure.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Newtonsoft.Json.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Owin.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Helpers.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Mvc.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Optimization.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Razor.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Deployment.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Razor.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\WebGrease.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Helpers.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Mvc.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Optimization.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.Razor.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Deployment.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\System.Web.WebPages.Razor.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Newtonsoft.Json.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Antlr3.Runtime.pdb
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\EntityFramework.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\EntityFramework.SqlServer.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Google.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csprojAssemblyReference.cache
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.InitialCreate.resources
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v1.resources
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v2.resources
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.Migrations.v21.resources
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.GenerateResource.cache
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CoreCompileInputs.cache
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.csproj.CopyComplete
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.dll
+D:\Nhom-2\LibararyManagement\LibraryManegement\obj\Debug\LibraryManegement.pdb

@@ -1,0 +1,93 @@
+﻿@model LibraryManegement.Models.BookBorrowOnLoan
+
+@{
+    ViewBag.Title = "Details";
+}
+
+
+<div class="container">
+    <h2>Chi Tiết</h2>
+
+
+    <div>
+        <h4>Phiếu Mượn</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Book.Book_title)*@
+                @Html.DisplayName("Tên sách")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Book.Book_title)
+            </dd>
+
+            <dt>
+                Độc giả
+            </dt>
+
+            <dd>
+                @Model.Pupils.Pupils_first_name @Model.Pupils.Pupils_middle_name @Model.Pupils.Pupils_last_name
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Fine_paid)*@
+                @Html.DisplayName("Tiền phạt")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Fine_paid)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Lost)*@
+                @Html.DisplayName("Mất")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Lost)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Overdue)*@
+                @Html.DisplayName("Quá hạn")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Overdue)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Date_issued)*@
+                @Html.DisplayName("Ngày mượn")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date_issued)
+            </dd>
+
+            <dt>
+                @* @Html.DisplayNameFor(model => model.Date_due_to_return)*@
+                @Html.DisplayName("Hạn mượn (ngày)")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date_due_to_return)
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Date_returned)*@
+                @Html.DisplayName("Ngày trả")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Date_returned)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>

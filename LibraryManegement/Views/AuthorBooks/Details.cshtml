@@ -1,0 +1,43 @@
+﻿@model LibraryManegement.Models.AuthorBook
+
+@{
+    ViewBag.Title = "Details";
+}
+<div class="container">
+    <h2>Chi Tiết</h2>
+
+    <div>
+        <h4>Sách-Tác Giả</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            @*<dt>
+            @Html.DisplayNameFor(model => model.Author.Author_first_name)
+        </dt>*@
+            <dt>
+                @Html.DisplayName("Tác Giả")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Author.Author_first_name)
+                @Html.DisplayFor(model => model.Author.Author_middle_name)
+                @Html.DisplayFor(model => model.Author.Author_last_name)
+
+            </dd>
+
+            <dt>
+                @*@Html.DisplayNameFor(model => model.Book.Book_title)*@
+                @Html.DisplayName("Sách")
+            </dt>
+
+            <dd>
+                @Html.DisplayFor(model => model.Book.Book_title)
+            </dd>
+
+        </dl>
+    </div>
+    <p>
+        @Html.ActionLink("Sửa", "Edit", new { id = Model.Id }) |
+        @Html.ActionLink("Trở lại", "Index")
+    </p>
+</div>
+
