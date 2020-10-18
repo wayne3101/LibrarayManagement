@@ -15,24 +15,70 @@
                 <div class="card-body">
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
+
                             <div class="text-xs font-weight-bold text-primary text-uppercase mb-1">Trường đại học Kiến Trúc Hà Nội</div>
                             <div class="h5 mb-0 font-weight-bold text-gray-800 ">CHƯƠNG TRÌNH QUẢN LÝ THƯ VIỆN</div>
                             <hr class="alert btn  " />
-                            <div class="h5 font-weight-bolder text-center"  style="color:crimson">Bắt đầu</div>
-                           
+
+                            @*  <div class="h5 font-weight-bolder btn btn-google btn-user btn-block" >Bắt đầu</div>*@
+
                             @*<div class="row container-md"*@
-                                    <li type="submit">@Html.ActionLink("Đăng nhập", "Login", "Account", routeValues: null, htmlAttributes: new { @class="btn btn-primary btn-user btn-block "  })</li>
-                                   <hr  />
-                                    <li type="submit">@Html.ActionLink("Đăng ký", "Register", "Account", routeValues: null, htmlAttributes: new { @class= "btn btn-facebook btn-user btn-block" })</li>
-                                   
-                           @* </div>*@
+                            @* <li type="submit">@Html.ActionLink("Đăng nhập", "Login", "Account", routeValues: null, htmlAttributes: new { @class="btn btn-primary btn-user btn-block "  })</li>
+        <hr  />
+         <li type="submit">@Html.ActionLink("Đăng ký", "Register", "Account", routeValues: null, htmlAttributes: new { @class= "btn btn-facebook btn-user btn-block" })</li>
+                            *@
+                            @* </div>*@
+                        <div>
                             
-                        </div>                        
-                        <div class="col-auto">
-                            <i class="fa fa-book fa-5x text-gray-300"></i>
+                            <a class="nav-link collapsed btn btn-primary btn-google btn-user" data-toggle="collapse" data-target="#collapseMaster" aria-expanded="true" aria-controls="collapseMaster">
+                                @*<i class="fa fa-book"></i>*@
+                                <i class="fa fa-tasks" style="color:white""></i>
+                                <span style="color:white">Quản lý</span>
+                            </a>
+                            <div id="collapseMaster" aria-labelledby="headingMaster" data-parent="#accordionSidebar">
+                                <div class="bg-gradient-light py-2 collapse-inner rounded">
+
+                                    <h6 class="collapse-header col ">Danh mục về sách</h6>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "Books")">Sách</a>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "Authors")">Tác giả</a>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "Genres")">Thể loại</a>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "AuthorBooks")">Sách-Tác giả</a>
+
+                                    <h6 class="collapse-header col ">Khóa học</h6>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "Courses")">Khóa học</a>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "BookCourses")">Sách-Khóa học</a>
+
+
+
+                                    <h6 class="collapse-header col ">Độc giả</h6>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "Pupils")">Độc giả</a>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "PupilsOnCourses")">Độc giả-Khóa học</a>
+
+                                    <h6 class="collapse-header col">Mượn trả</h6>
+                                    <a class="collapse-item col" href="@Url.Action("Index", "BookBorrowOnLoans")">Chi tiết phiếu mượn</a>
+
+                                </div>
+                                <hr class="alert btn" />
+                                <div>
+                                    <i class="fa fa-book fa-5x text-gray-300 rotate-n-15"></i>
+                                    <i class="fa fa-book fa-5x text-gray-300 fa-rotate-90"></i>
+                                   
+
+                                </div>
+                            </div>
+                            
+                           
                         </div>
 
-                    </div>
+                            </div>
+                            @*<div class="col-auto">
+                                <i class="fa fa-book fa-5x text-gray-300 rotate-15"></i>
+                                
+                            </div>
+                        *@
+                    
+
+                        </div>
                 </div>
             </div>
            
